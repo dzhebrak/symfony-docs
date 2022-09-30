@@ -243,7 +243,7 @@ In both cases, the ``field-part`` can be any of these valid form field parts:
 
 .. raw:: html
 
-    <object data="../_images/form/form-field-parts.svg" type="image/svg+xml"></object>
+    <object class="mw-100" data="../_images/form/form-field-parts.svg" type="image/svg+xml"></object>
 
 Fragment Naming for All Fields of the Same Type
 ...............................................

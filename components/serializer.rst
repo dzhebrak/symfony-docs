@@ -12,7 +12,7 @@ In order to do so, the Serializer component follows the following schema.
 
 .. raw:: html
 
-    <object data="../_images/components/serializer/serializer_workflow.svg" type="image/svg+xml"></object>
+    <object class="mw-100" data="../_images/components/serializer/serializer_workflow.svg" type="image/svg+xml"></object>
 
 As you can see in the picture above, an array is used as an intermediary between
 objects and serialized contents. This way, encoders will only deal with turning

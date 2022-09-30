@@ -31,7 +31,7 @@ Concepts
 
 .. raw:: html
 
-    <object data="../_images/components/messenger/overview.svg" type="image/svg+xml"></object>
+    <object class="mw-100" data="../_images/components/messenger/overview.svg" type="image/svg+xml"></object>
 
 **Sender**:
    Responsible for serializing and sending messages to *something*. This

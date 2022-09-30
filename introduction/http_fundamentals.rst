@@ -361,7 +361,7 @@ to do:
 
 .. raw:: html
 
-    <object data="../_images/http/request-flow.svg" type="image/svg+xml"></object>
+    <object class="mw-100" data="../_images/http/request-flow.svg" type="image/svg+xml"></object>
 
 Incoming requests are interpreted by the :doc:`Routing component </routing>` and
 passed to PHP functions that return ``Response`` objects.

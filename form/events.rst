@@ -34,14 +34,14 @@ The Form Workflow
 
 .. raw:: html
 
-    <object data="../_images/form/form_workflow.svg" type="image/svg+xml"></object>
+    <object class="mw-100" data="../_images/form/form_workflow.svg" type="image/svg+xml"></object>
 
 1) Pre-populating the Form (``FormEvents::PRE_SET_DATA`` and ``FormEvents::POST_SET_DATA``)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
-    <object data="../_images/form/form_prepopulation_workflow.svg" type="image/svg+xml"></object>
+    <object class="mw-100" data="../_images/form/form_prepopulation_workflow.svg" type="image/svg+xml"></object>
 
 Two events are dispatched during pre-population of a form, when
 :method:`Form::setData() <Symfony\\Component\\Form\\Form::setData>`
@@ -119,7 +119,7 @@ View data        Normalized data transformed using a view transformer
 
 .. raw:: html
 
-    <object data="../_images/form/form_submission_workflow.svg" type="image/svg+xml"></object>
+    <object class="mw-100" data="../_images/form/form_submission_workflow.svg" type="image/svg+xml"></object>
 
 Three events are dispatched when
 :method:`Form::handleRequest() <Symfony\\Component\\Form\\Form::handleRequest>`

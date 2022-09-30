@@ -105,7 +105,7 @@ following set of fields as the "postal address":
 
 .. raw:: html
 
-    <object data="../_images/form/form-custom-type-postal-address.svg" type="image/svg+xml"></object>
+    <object class="mw-100" data="../_images/form/form-custom-type-postal-address.svg" type="image/svg+xml"></object>
 
 As explained above, form types are PHP classes that implement
 :class:`Symfony\\Component\\Form\\FormTypeInterface`, although it's more
@@ -444,7 +444,7 @@ following diagram shows some of the Twig block names defined in this example:
 
 .. raw:: html
 
-    <object data="../_images/form/form-custom-type-postal-address-fragment-names.svg" type="image/svg+xml"></object>
+    <object class="mw-100" data="../_images/form/form-custom-type-postal-address-fragment-names.svg" type="image/svg+xml"></object>
 
 .. caution::
 

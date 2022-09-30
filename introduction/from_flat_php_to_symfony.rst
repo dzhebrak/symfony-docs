@@ -660,7 +660,7 @@ It's a beautiful thing.
 
 .. raw:: html
 
-    <object data="../_images/http/request-flow.svg" type="image/svg+xml"></object>
+    <object class="mw-100" data="../_images/http/request-flow.svg" type="image/svg+xml"></object>
 
 Where Symfony Delivers
 ----------------------

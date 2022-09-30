@@ -54,7 +54,7 @@ customized using other Twig functions, as illustrated in the following diagram:
 
 .. raw:: html
 
-    <object data="../_images/form/form-field-parts.svg" type="image/svg+xml"></object>
+    <object class="mw-100" data="../_images/form/form-field-parts.svg" type="image/svg+xml"></object>
 
 The :ref:`form_label() <reference-forms-twig-label>`,
 :ref:`form_widget() <reference-forms-twig-widget>`,
